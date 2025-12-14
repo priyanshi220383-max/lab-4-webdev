@@ -1,7 +1,7 @@
-#WEB DEV LAB 4
+#**WEB DEV LAB 4**
 This project is the complete solution for Web Dev I Lab Assignment 4. I developed a simple quiz game that runs entirely in the browser's JavaScript Console,
 relying on core JavaScript features like arrays, functions, loops, and conditionals.
-#IMPLEMENTATION DETAILS:
+#**IMPLEMENTATION DETAILS:**
 My solution fully meets all lab requirements and includes several improvements:
 
 Code Structure: The quiz logic is contained within a dedicated runQuiz() function, and a separate startGame() function manages the overall game flow with restarts using a while loop and confirm(). This ensures excellent organization and readability.
